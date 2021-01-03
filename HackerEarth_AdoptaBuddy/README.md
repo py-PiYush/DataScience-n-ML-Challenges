@@ -42,6 +42,6 @@ score=100×(s1+s2)/2
 Note: To avoid any discrepancies in the scoring, ensure all the index column values in submitted file matches the index column values in 'test.csv' provided.
 
 ***
-#### My Rank=> *138* out of 840 active participants and 5060 total participants
+#### My Rank=> *141* out of 840 active participants and 5060 total participants
 #### MY Score=> 90.32509(offline)
 Link to [LeaderBoard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/page/3/)
